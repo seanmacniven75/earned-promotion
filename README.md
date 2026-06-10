@@ -59,6 +59,10 @@ Promotion is not binary (private/global) but graduated through named visibility 
 
 A skill advances one tier at a time, re-passing both gates at each boundary. A skill validated by its originator (T0→T1) may be further validated by the selected group before organisation-wide promotion (T1→T2). Promotion is reversible: a skill may be demoted if its measured performance degrades.
 
+
+![Earned Promotion workflow: a locally-learned skill passes an evidence gate and a consent gate, then advances one tier at a time from private to selected to organisation-wide, with attribution preserved throughout.](earned-promotion-workflow.png)
+
+
 ### Attribution carried throughout
 
 Every promotion preserves provenance. A skill published organisation-wide names its originator and lists every contributor who refined it at intermediate tiers. Attribution is a first-class property of the artefact, not metadata that can be stripped on promotion. This serves three ends: it incentivises high-quality contribution, it provides the audit trail regulators and reviewers need, and it preserves the human authorship that the consent gate protects.
